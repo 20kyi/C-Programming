@@ -24,7 +24,7 @@
     <ClCompile Include="func_exam2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="get_integer.c">
+    <ClCompile Include="odd.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
