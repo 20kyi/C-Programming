@@ -18,5 +18,14 @@
     <ClCompile Include="func_exam1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="func_max.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="func_exam2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="get_integer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
