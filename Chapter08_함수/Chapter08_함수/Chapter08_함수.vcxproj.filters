@@ -27,5 +27,8 @@
     <ClCompile Include="odd.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="factorial.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
