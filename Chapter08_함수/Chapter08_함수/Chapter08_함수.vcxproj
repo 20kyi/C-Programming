@@ -123,10 +123,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="factorial.c" />
     <ClCompile Include="func_exam1.c" />
     <ClCompile Include="func_exam2.c" />
     <ClCompile Include="func_max.c" />
     <ClCompile Include="odd.c" />
+    <ClCompile Include="temperature.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
