@@ -18,5 +18,41 @@
     <ClCompile Include="local_variable.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="global.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="global2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="local_grobal.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="static.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="saving.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="inited.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="random.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="main.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="stdarg.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="fatorial.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="gcd.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="hanoi_tower.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

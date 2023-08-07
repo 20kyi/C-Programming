@@ -33,5 +33,29 @@
     <ClCompile Include="temperature.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="combination.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="prime.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="lotto1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="lotto2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="coin_game.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="racing_game.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="draw_dots.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="get_integer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

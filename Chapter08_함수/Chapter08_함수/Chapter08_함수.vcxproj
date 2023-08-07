@@ -123,11 +123,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="coin_game.c" />
+    <ClCompile Include="combination.c" />
+    <ClCompile Include="draw_dots.c" />
     <ClCompile Include="factorial.c" />
     <ClCompile Include="func_exam1.c" />
     <ClCompile Include="func_exam2.c" />
     <ClCompile Include="func_max.c" />
+    <ClCompile Include="get_integer.c" />
+    <ClCompile Include="lotto1.c" />
+    <ClCompile Include="lotto2.c" />
     <ClCompile Include="odd.c" />
+    <ClCompile Include="prime.c" />
+    <ClCompile Include="racing_game.c" />
     <ClCompile Include="temperature.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
