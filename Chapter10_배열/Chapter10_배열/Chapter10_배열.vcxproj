@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{1B46ACB2-1950-41FF-BDD1-1EF028A05DB4}</ProjectGuid>
-    <RootNamespace>Chapter08함수</RootNamespace>
+    <ProjectGuid>{CFA2AC1E-0147-4E7E-95F1-6FD18F14E09C}</ProjectGuid>
+    <RootNamespace>Chapter10배열</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -123,20 +123,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="coin_game.c" />
-    <ClCompile Include="combination.c" />
-    <ClCompile Include="draw_dots.c" />
-    <ClCompile Include="factorial.c" />
-    <ClCompile Include="func_exam1.c" />
-    <ClCompile Include="func_exam2.c" />
-    <ClCompile Include="func_max.c" />
-    <ClCompile Include="get_integer.c" />
-    <ClCompile Include="lotto1.c" />
-    <ClCompile Include="lotto2.c" />
-    <ClCompile Include="odd.c" />
-    <ClCompile Include="prime.c" />
-    <ClCompile Include="racing_game.c" />
-    <ClCompile Include="temperature.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
